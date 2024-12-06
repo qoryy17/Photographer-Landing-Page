@@ -159,6 +159,7 @@ body {
 
 .about-biography ul {
   padding: 0;
+  margin-bottom: 20px;
 }
 
 .about-biography ul > li {
@@ -307,7 +308,7 @@ body {
 }
 
 .blog-section .card {
-  height: 400px;
+  height: auto;
 }
 
 .contact-section {
